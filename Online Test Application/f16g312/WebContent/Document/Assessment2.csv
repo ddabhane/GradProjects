@@ -1,0 +1,4 @@
+assessmentid,questionid,questiontype,questionstring,answer,answererror,coursename
+1,1,NUM,Question 14.79 - intercept b0,62.1411,0.5,ADBMS
+2,1,NUM,Question 14.79 - slope b1 (diameter),2.0567,0.1,Statistics
+3,1,NUM,Question 14.79 - slope b1 (bark thickness),15.6418,0.3,Accounting

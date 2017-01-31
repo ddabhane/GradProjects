@@ -1,0 +1,10 @@
+NUM	Question 1 a	10.5	0.1
+NUM	Question 1 b	15	0.25
+NUM	Question 2 a	5	0.05
+NUM	Question 2 b	-3	0.02
+NUM	Question 3 a	-17	0.5
+NUM	Question 3 b	22	0.5
+NUM	Question 3 c	33	1
+NUM	Question 4 a	40	1
+NUM	Question 4 b	100	1.5
+NUM	Question 4 c	5.5	0.15
